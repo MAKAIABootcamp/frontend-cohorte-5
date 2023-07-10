@@ -1,4 +1,4 @@
-# Módulo 2 Entrenamiento Front-End Cohorte 4 👩‍💻👨‍💻
+# Módulo 2 Entrenamiento Front-End Cohorte 5 👩‍💻👨‍💻
 ## Sprint 1
 ### Contenido
 1. Versionamiento de Código
